@@ -1,0 +1,12 @@
+# Project Subdirectories
+analysis/
+dev/
+projects/
+workshops/
+
+# config files
+*.env
+*.DS_Store
+.ipynb_checkpoints/
+.vscode/
+
